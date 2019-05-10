@@ -17,6 +17,7 @@
 const TEXT_DOMAIN = "wcmp_rppv";
 
 
+include_once( ABSPATH . 'wp-admin/includes/plugin.php' );
 if ( is_plugin_active( 'dc-woocommerce-multi-vendor/dc_product_vendor.php' ) ) {
 
     /*
