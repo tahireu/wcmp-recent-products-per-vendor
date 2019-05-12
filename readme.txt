@@ -11,7 +11,7 @@ Shortcode for displaying specific number of recent products per vendor.
 
 == Description ==
 
-This WC Marketplace plugin (https://wordpress.org/plugins/dc-woocommerce-multi-vendor/) extension enables [wcmp_recent_products_per_vendor] shortcode for displaying specific number of recent products per vendor (default is 2) . You can optionally use it with "per_vendor" and "total" parameters, for example [wcmp_recent_products_per_vendor per_vendor="5" total="20"]
+This extension for WC Marketplace plugin (https://wordpress.org/plugins/dc-woocommerce-multi-vendor/) enables [wcmp_recent_products_per_vendor] shortcode for displaying specific number of recent products per vendor (default is 2) . You can optionally use it with "per_vendor" and "total" parameters, for example [wcmp_recent_products_per_vendor per_vendor="5" total="20"]
 
 This plugin is developed by request: https://wordpress.org/support/topic/display-recent-products-but-only-2-per-vendor/#post-11496330
 
